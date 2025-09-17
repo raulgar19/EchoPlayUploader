@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36212.18 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EchoPlayUploader", "EchoPlayUploader.csproj", "{04D1AEFC-C0E0-48DA-B9EF-629830879374}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04D1AEFC-C0E0-48DA-B9EF-629830879374}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04D1AEFC-C0E0-48DA-B9EF-629830879374}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04D1AEFC-C0E0-48DA-B9EF-629830879374}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04D1AEFC-C0E0-48DA-B9EF-629830879374}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8FC10FA3-13F2-48CC-9C01-D0F6D3166BA0}
+	EndGlobalSection
+EndGlobal
